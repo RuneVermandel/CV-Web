@@ -1,0 +1,156 @@
+body
+{
+height: 100%;
+font-size: 100%;
+}
+
+table.main
+{
+width: 75%;
+height: 100%;
+border-collapse: collapse;
+}
+
+td.border
+{
+border: 1px solid black;
+}
+
+td
+{
+vertical-align: top;
+}
+
+table.sub
+{
+width: 100%;
+}
+
+td.half
+{
+width: 50%;
+}
+
+td.quarter
+{
+width: 25%;
+}
+
+a
+{
+
+}
+
+a.mailto
+{
+
+}
+
+a.school
+{
+
+}
+
+a.employer
+{
+
+}
+
+div
+{
+font-family: "Calibri", "Arial", sans-serif;
+}
+
+div.name
+{
+font-size: 1.5em;
+text-transform: uppercase;
+font-weight: bold;
+}
+
+div.adress
+{
+
+}
+
+div.DOB
+{
+
+}
+
+div.phone
+{
+
+}
+
+div.mail
+{
+
+}
+
+div.title
+{
+font-size: 1.1em;
+text-transform: uppercase;
+font-weight: bold;
+}
+
+div.skill
+{
+
+}
+
+div.level
+{
+
+}
+
+div.eduT
+{
+
+}
+
+div.date
+{
+
+}
+
+div.school
+{
+
+}
+
+div.edu
+{
+
+}
+
+div.employer
+{
+
+}
+
+div.jobT
+{
+
+}
+
+div.job
+{
+
+}
+
+div.info
+{
+
+}
+
+div.inter
+{
+
+}
+
+div.about
+{
+
+}
