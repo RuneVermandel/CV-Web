@@ -1,3 +1,3 @@
 # Web-CV
 
-This is the code of my personal website, which currently only hosts my CV.
+This is the code of the pages on my website which host my CV.
