@@ -444,7 +444,7 @@ th {
 
 .hs {
   float: right;
-  width: 150px;
+  height: 12em;
   margin: 0.1em;
 }
 
@@ -492,11 +492,12 @@ h3 {
 
 a {
   text-decoration: none;
-  color: #3262ad;
+  color: #505050;
 }
 
 a:hover {
   text-decoration: underline;
+  color: #3262ad;
 }
 
 /* LISTS */
@@ -508,7 +509,23 @@ ul {
 
 li {
   margin: 0.2em 0 0.2em 0;
-  padding: 0 0.2em 0 e.2em;
+  padding: 0 0.2em 0 0.2em;
+}
+
+#skills ul li ul li {
+  display: inline-block;
+  margin: 0;
+  padding: 0 0.2em 0 0;
+  border-right: 1px solid #505050;
+}
+
+#skills ul li ul {
+  padding: 0;
+  margin: 0;
+}
+
+#skills ul li ul li:last-child {
+  border-right: 0;
 }
 
 @media print {
