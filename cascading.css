@@ -467,6 +467,10 @@ p {
 
 /* TYPEFACES */
 
+.small {
+  font-size: 0.75em;
+}
+
 body {
   color: #555555;
 }
@@ -532,7 +536,7 @@ li {
   body {
     font-size: 12px;
   }
-  
+
   .wrapper {
     border: 0;
   }
