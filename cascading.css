@@ -532,6 +532,11 @@ li {
   border-right: 0;
 }
 
+ul.tasks {
+  list-style-type: square;
+  margin-left: 1.5em;
+}
+
 @media print {
   body {
     font-size: 12px;
